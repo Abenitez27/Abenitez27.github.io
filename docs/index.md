@@ -1,17 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/Abenitez27/Abenitez27.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks and scripts I created for data collecting, EDA, machine learning projects and anything I find interesting to work on and explore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Stand Alone Projects:
+## Webscraping:
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
 ## Header 2
 ### Header 3
 
