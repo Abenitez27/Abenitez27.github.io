@@ -5,6 +5,8 @@ This portfolio is a compilation of notebooks and scripts I created for data coll
 # Stand Alone Projects:
 ## Webscraping:
 
+This notebook [Zillow Webscraper](https://github.com/Abenitez27/Abenitez27.github.io/blob/master/notebooks/Simple_Webscraper_Zillow_Page.ipynb) is a simple web scraper I designed specifically for Zillow but could be modified for other similar listed format websites. The user inputs a Zillow search URL and the scraper downloads the HTML, parses the HTML and formats the data into a pandas dataframe for use. This web scraper is used only for academic purposes. 
+
 
 
 
