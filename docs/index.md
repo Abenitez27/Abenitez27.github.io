@@ -43,6 +43,30 @@ This project is over the CIFAR-10 data set that contain 10 image categories of:
 The two Jupiter notebooks in this project repo [Cifar-TF2.0-CNN](https://github.com/Abenitez27/Cifar-TF2.0-CNN) require a GPU to build the CNN models for image classification. I recommend running the notebooks in Google Colab's free environment with tensorflow and keras and adding a GPU to the notebook. The two notebooks are over the same Cifar dataset but one is an improved version with an added data augmentation image generator from Keras. 
 
 
+# CNN_Fashion_MNIST:
+
+<img src="https://github.com/Abenitez27/CNN_Fashion_MNIST/blob/main/fashion%20mnist%20dataset.png" width="300" height="300">
+
+This notebooks is over the Fashion MNIST dataset building a CNN model to classify the images in Google Colab's free environment. The images consist of 10 different categories of
+articles of clothing as follows:
+
+- 0 T-shirt/top
+- 1 Trouser
+- 2 Pullover
+- 3 Dress
+- 4 Coat
+- 5 Sandal
+- 6 Shirt
+- 7 Sneaker
+- 8 Bag
+- 9 Ankle boot
+
+I recommend running the notebooks in Google Colab's free environment with tensorflow and keras and adding a GPU to the notebook. The code for the project can be found here [CNN_Fashion_MNIST](https://github.com/Abenitez27/CNN_Fashion_MNIST/blob/main/CNN_Fashion_MNIST.ipynb)
+
+
+
+
+
 
 
 ### Header 3
