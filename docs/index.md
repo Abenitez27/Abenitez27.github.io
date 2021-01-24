@@ -43,7 +43,7 @@ This project is over the CIFAR-10 data set that contain 10 image categories of:
 The two Jupiter notebooks in this project repo [Cifar-TF2.0-CNN](https://github.com/Abenitez27/Cifar-TF2.0-CNN) require a GPU to build the CNN models for image classification. I recommend running the notebooks in Google Colab's free environment with tensorflow and keras and adding a GPU to the notebook. The two notebooks are over the same Cifar dataset but one is an improved version with an added data augmentation image generator from Keras. 
 
 
-# CNN_Fashion_MNIST:
+### CNN_Fashion_MNIST:
 
 <img src="https://github.com/Abenitez27/CNN_Fashion_MNIST/blob/main/fashion%20mnist%20dataset.png" width="300" height="300">
 
@@ -63,10 +63,11 @@ articles of clothing as follows:
 
 I recommend running the notebooks in Google Colab's free environment with tensorflow and keras and adding a GPU to the notebook. The code for the project can be found here [CNN_Fashion_MNIST](https://github.com/Abenitez27/CNN_Fashion_MNIST/blob/main/CNN_Fashion_MNIST.ipynb)
 
+### MNIST10_Numbers
 
+<img src="https://github.com/Abenitez27/MNIST10_Numbers/blob/main/MNIST_dataset_sample.png" width="300" height="300">
 
-
-
+This [notebook](https://github.com/Abenitez27/MNIST10_Numbers/blob/main/TF2_0_ANN_MNIST.ipynb) is over the MNIST dataset that contains hand written numbers form 0 to 9. The goal of the project is to correctly classify the images using an ANN model. This is done in Google Colab's free environemnt with the added GPU. 
 
 
 ### Header 3
