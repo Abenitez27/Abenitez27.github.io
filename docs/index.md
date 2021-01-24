@@ -5,7 +5,7 @@ This portfolio is a compilation of notebooks and scripts I created for data coll
 ## Webscraping Projects:
 
 ### Crypto Currency app:
-![](https://github.com/Abenitez27/Crypto_currency_app/blob/master/crypto_image.jpg" width="300" height="300")
+![](https://github.com/Abenitez27/Crypto_currency_app/blob/master/crypto_image.jpg)
 
 This app is an interactive [crypto currency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com/) using Heroku and Streamlit. This app allows the user to see the top 100 crypto currency stocks currently from the website
 [CoinMarketCap][(https://coinmarketcap.com/).
