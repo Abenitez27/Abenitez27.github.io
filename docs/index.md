@@ -3,10 +3,13 @@
 This portfolio is a compilation of notebooks and scripts I created for data collecting, EDA, machine learning projects and anything I find interesting to work on and explore.
 
 ## Stand Alone Projects:
-### Webscraping:
 
-This notebook [Zillow Webscraper](https://github.com/Abenitez27/Abenitez27.github.io/blob/master/notebooks/Simple_Webscraper_Zillow_Page.ipynb) is a simple web scraper I designed specifically for Zillow but could be modified for other similar listed format websites. The user inputs a Zillow search URL and the scraper downloads the HTML, parses the HTML, and formats the data into a pandas data frame for use. This web scraper is used only for academic purposes. 
+### Crypto Currency app:
+This app is an interactive [crypto currency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com/) using Heroku and Streamlit. This app allows the user to see the top 100 crypto currency stocks currently from the website
+[CoinMarketCap][(https://coinmarketcap.com/).
+The main purpose of the app is to help the user see the price change of the crypto currency in a better visualized way using a barplot.
 
+**NOTE!!! Please give the application a minute to load as it takes Heroku a little bit to launch and webscrap the data when the script is run thanks!**
 
 
 
@@ -18,9 +21,28 @@ This project was a final term assignment that utilizes Microsoft SQL Server Mana
 Here is the link to the interactive app on [Heroku](https://nba-eda-app-streamlit.herokuapp.com/) and Streamlit platform.
 This application webscrapes data from the website [Basket Ball Reference] (https://www.basketball-reference.com/) and puts the data into a pandas data frame. Streamlit allows for the interactive user input selection boxes to change the data according to the users needs. The code is [here](https://github.com/Abenitez27/NBA_EDA_app)
 
-### Crypto Currency app:
-This app is an interactive [crypto currency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com/) using Heroku and Streamlit. This app allows the user to see the top 100 crypto currency stocks currently from the website
-[CoinMarketCap][(https://coinmarketcap.com/). The main purpose of the app is to help the user see the price change of the crypto currency in a better visualized way using a barplot. 
+**NOTE!!! Please give the application a minute to load as it takes Heroku a little bit to launch and webscrap the data when the script is run thanks!**
+
+
+### CNN Model over the Cifar data set:
+
+<img src="https://github.com/Abenitez27/Cifar-TF2.0-CNN/blob/master/cifar-10_images_sample.png" width="300" height="300">
+This project is over the CIFAR-10 data set that contain 10 image categories of:
+
+- airplane
+- automobile
+- bird
+- cat
+- deer
+- dog
+- frog
+- horse
+- ship
+- truck
+
+The two Jupiter notebooks in this project repo [Cifar-TF2.0-CNN](https://github.com/Abenitez27/Cifar-TF2.0-CNN) require a GPU to build the CNN models for image classification. I recommend running the notebooks in Google Colab's free environment with tensorflow and keras and adding a GPU to the notebook. The two notebooks are over the same Cifar dataset but one is an improved version with an added data augmentation image generator from Keras. 
+
+
 
 
 ### Header 3
