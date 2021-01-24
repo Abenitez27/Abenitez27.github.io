@@ -5,7 +5,7 @@ This portfolio is a compilation of notebooks and scripts I created for data coll
 ## Webscraping Projects:
 
 ### Crypto Currency app:
-
+![Image of a basketball](https://www.google.com/search?q=basketball+images&rlz=1C1CHBF_enUS878US878&sxsrf=ALeKk01i-PbRc2u275cijF_M5ZBwkz0uUw:1611525544251&tbm=isch&source=iu&ictx=1&fir=NJjN7fY7xcTLiM%252CLQqpyKFiVOhwSM%252C_&vet=1&usg=AI4_-kTGVgojJijBKybmLLjg1ILrzSZrvw&sa=X&ved=2ahUKEwjf4fG8yLXuAhXZHM0KHT2_Ct8Q9QF6BAgMEAE&biw=1536&bih=754&dpr=1.25#imgrc=NJjN7fY7xcTLiM "Basketball")
 <img src="https://github.com/Abenitez27/Crypto_currency_app/blob/master/crypto_image.jpg" width="300" height="300">
 
 This app is an interactive [crypto currency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com/) using Heroku and Streamlit. This app allows the user to see the top 100 crypto currency stocks currently from the website
