@@ -7,14 +7,14 @@ This portfolio is a compilation of notebooks and scripts I created for data coll
 ### Crypto Currency app:
 This app is an interactive [crypto currency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com/) using Heroku and Streamlit. This app allows the user to see the top 100 crypto currency stocks currently from the website
 [CoinMarketCap][(https://coinmarketcap.com/).
-The main purpose of the app is to help the user see the price change of the crypto currency in a better visualized way using a barplot.
+The main purpose of the app is to help the user see the price change of the crypto currency in a better visualized way using a barplot. The code can be found here[Crypto_currency_app](https://github.com/Abenitez27/Crypto_currency_app/blob/master/cryptocurrency-app.py)
 
 **NOTE!!! Please give the application a minute to load as it takes Heroku a little bit to launch and webscrap the data when the script is run thanks!**
 
 ### NBA EDA app:
 
 Here is the link to the interactive app on [Heroku](https://nba-eda-app-streamlit.herokuapp.com/) and Streamlit platform.
-This application webscrapes data from the website [Basket Ball Reference] (https://www.basketball-reference.com/) and puts the data into a pandas data frame. Streamlit allows for the interactive user input selection boxes to change the data according to the users needs. The code is [here](https://github.com/Abenitez27/NBA_EDA_app)
+This application webscrapes data from the website [Basket Ball Reference] (https://www.basketball-reference.com/) and puts the data into a pandas data frame. Streamlit allows for the interactive user input selection boxes to change the data according to the users needs. The code is here [NBA_EDA_app](https://github.com/Abenitez27/NBA_EDA_app)
 
 **NOTE!!! Please give the application a minute to load as it takes Heroku a little bit to launch and webscrap the data when the script is run thanks!**
 
