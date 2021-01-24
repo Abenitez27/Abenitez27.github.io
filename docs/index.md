@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks and scripts I created for data coll
 
 ### Crypto Currency app:
 
-
+<img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/crypto_image.jpg" width="100" height="100">
 ![Crypto Currency image](https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/crypto_image.jpg)
 
 This app is an interactive [crypto currency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com/) using Heroku and Streamlit. This app allows the user to see the top 100 crypto currency stocks currently from the website
@@ -16,7 +16,8 @@ The main purpose of the app is to help the user see the price change of the cryp
 **NOTE!!! Please give the application a minute to load as it takes Heroku a little bit to launch and webscrap the data when the script is run thanks!**
 
 ### NBA EDA app:
-<img src="https://github.com/Abenitez27/NBA_EDA_app/blob/main/stock_basketball_image.png" width="300" height="300">
+
+![Basketball image](https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/stock_basketball_image.png)
 
 
 Here is the link to the interactive app on [Heroku](https://nba-eda-app-streamlit.herokuapp.com/) and Streamlit platform.
