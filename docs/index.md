@@ -1,12 +1,12 @@
 # Welcome to my portfolio
 
-This portfolio is a compilation of notebooks and scripts I created for data collecting, EDA, machine learning projects and anything I find interesting to work on and explore.
+#### This portfolio is a compilation of notebooks and scripts I created for data collecting, EDA, machine learning projects and anything I find interesting to work on and explore.
 
 ## Webscraping Projects:
 
 ### Crypto Currency app:
 
-<img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/crypto_image.jpg" width="300" height="300">
+<kbd><img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/crypto_image.jpg" width="300" height="300"><kbd>
 
 
 This app is an interactive [cryptocurrency data visualizer](https://cryptocurrency-app-streamlit.herokuapp.com) using Heroku and Streamlit.
@@ -17,7 +17,7 @@ The main purpose of the app is to help the user see the price change of the cryp
 
 ### NBA EDA app:
 
-<img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/stock_basketball_image.png" width="300" height="300">
+<kbd><img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/stock_basketball_image.png" width="300" height="300"><kbd>
 
 
 Here is the link to the interactive app on [Heroku](https://nba-eda-app-streamlit.herokuapp.com/) and Streamlit platform.
@@ -34,7 +34,9 @@ This project was a final term assignment that utilizes Microsoft SQL Server Mana
 
 ### CNN Model over the Cifar data set:
 
-<img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/cifar-10_images_sample.png" width="300" height="300">
+<kbd><img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/cifar-10_images_sample.png" width="300" height="300"><kbd>
+ 
+ 
 This project is over the CIFAR-10 data set that contain 10 image categories of:
 
 - airplane
@@ -53,7 +55,7 @@ The two Jupiter notebooks in this project repo [Cifar-TF2.0-CNN](https://github.
 
 ### CNN_Fashion_MNIST:
 
-<img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/fashion%20mnist%20dataset.png" width="300" height="300">
+<kbd><img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/fashion%20mnist%20dataset.png" width="300" height="300"><kbd>
 
 This notebooks is over the Fashion MNIST dataset building a CNN model to classify the images in Google Colab's free environment. The images consist of 10 different categories of
 articles of clothing as follows:
@@ -73,7 +75,7 @@ I recommend running the notebooks in Google Colab's free environment with tensor
 
 ### MNIST10_Numbers
 
-<img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/MNIST_dataset_sample.png" width="300" height="300">
+<kbd><img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/MNIST_dataset_sample.png" width="300" height="300"><kbd>
 
 This [notebook](https://github.com/Abenitez27/MNIST10_Numbers/blob/main/TF2_0_ANN_MNIST.ipynb) is over the MNIST dataset that contains hand written numbers form 0 to 9. The goal of the project is to correctly classify the images using an ANN model. This is done in Google Colab's free environemnt with the added GPU. 
 
