@@ -72,14 +72,18 @@ articles of clothing as follows:
 
 I recommend running the notebooks in Google Colab's free environment with tensorflow and keras and adding a GPU to the notebook. The code for the project can be found here [CNN_Fashion_MNIST](https://github.com/Abenitez27/CNN_Fashion_MNIST/blob/main/CNN_Fashion_MNIST.ipynb)
 
-### MNIST10_Numbers
+### MNIST10_Numbers:
 
 <kbd><img src="https://raw.githubusercontent.com/Abenitez27/Abenitez27.github.io/master/gh_images/MNIST_dataset_sample.png" width="300" height="300"><kbd>
 
 This [notebook](https://github.com/Abenitez27/MNIST10_Numbers/blob/main/TF2_0_ANN_MNIST.ipynb) is over the MNIST dataset that contains hand written numbers form 0 to 9. The goal of the project is to correctly classify the images using an ANN model. This is done in Google Colab's free environemnt with the added GPU. 
 
 
+### Ethical Hacking Projects:
 
+<kbd><img src="https://raw.githubusercontent.com/Abenitez27/ethical_hacking_python/main/hack_image.PNG" width="300" height="300"><kbd>
+ 
+This [GitHub repo](https://github.com/Abenitez27/ethical_hacking_python/tree/main/Kali%20Linux) is a small compilation of projects done by following along videos that give the user a better understanding of how hackers execute reconnaissance and infiltration of open ports and SSH environments. 
 
 ### Jekyll Themes
  The name of this theme is saved in the Jekyll `_config.yml` configuration file.
